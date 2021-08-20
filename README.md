@@ -1,6 +1,6 @@
 # Operating-System-AUTOMATION 👩‍💻
 An Operating System (OS) is an interface between a computer user and computer hardware.  Designed a project to automate daily tasks on our operating system which results reducing time consumption.
- It performs basic tasks such as file, memory and process management, handling input and output, and controlling peripheral devices such as disk drives and printers.Some popular Operating Systems include Linux Operating System, Windows Operating System, VMS, Mac operating system, OS/400, etc. 
+ Operating system performs basic tasks such as file, memory and process management, handling input and output, and controlling peripheral devices such as disk drives and printers.Some popular Operating Systems include Linux Operating System, Windows Operating System, VMS, Mac operating system, OS/400, etc. 
  
  How we are goin to automate Opearting System?
  Automating opearing system will be beneficial for both students & teachers. Here I've used libraries of Javascript and node modules to build this code. 
